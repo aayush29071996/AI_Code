@@ -63,9 +63,9 @@ int main () {
                 cout << "Too much water";
             }
         }
-        if (intent == 9) break;
         printJars();
     }
+    cout<<"Yupzz, you have done it. Now try the next program and see the computer perform it";
     return 0;
 }
 
