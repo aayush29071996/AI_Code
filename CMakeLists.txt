@@ -4,6 +4,6 @@ project(AI_Code)
 set(CMAKE_CXX_STANDARD 11)
 
 set(SOURCE_FILES
-        TicTak.cpp)
+        MagicSquare.cpp)
 
 add_executable(AI_Code ${SOURCE_FILES})
