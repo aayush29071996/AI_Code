@@ -19,10 +19,9 @@ A Water Jug Problem: You are given two jugs, a 4-gallon one and a 3-gallon one, 
 8. Pour all of water from 4-gal jug into 3-gal jug 0<x+y≤3andx≥0
 
 ### 2. BFS (Breadth First Search)
-
-- DFS (Depth First Search)
-- Tic Tac Toe - 2 Player
-- Tic Tac Toe - 1 Player
+### 3. DFS (Depth First Search)
+### 4. Tic Tac Toe - 2 Player
+### 5. Tic Tac Toe - 1 Player
 - Magic Square Promlem
 - A* Algorithm
 - AO* Algorithm
