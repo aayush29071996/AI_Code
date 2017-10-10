@@ -4,6 +4,6 @@ project(AI_Code)
 set(CMAKE_CXX_STANDARD 11)
 
 set(SOURCE_FILES
-        WaterJug.cpp)
+        BDSearch.cpp)
 
 add_executable(AI_Code ${SOURCE_FILES})
