@@ -25,5 +25,5 @@ A Water Jug Problem: You are given two jugs, a 4-gallon one and a 3-gallon one, 
 ### 6. Magic Square Problem
 
 ### 7. A* Algorithm
-- AO* Algorithm
-- Block World Problem
+- AO* Algorithm (Not Done)
+- Block World Problem (Not Done)
