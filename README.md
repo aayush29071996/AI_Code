@@ -24,6 +24,6 @@ A Water Jug Problem: You are given two jugs, a 4-gallon one and a 3-gallon one, 
 ### 5. Tic Tac Toe - 1 Player
 ### 6. Magic Square Problem
 
-- A* Algorithm
+### 7. A* Algorithm
 - AO* Algorithm
 - Block World Problem
