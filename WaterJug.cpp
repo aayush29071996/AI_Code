@@ -40,7 +40,7 @@ int main () {
             }
         }
         if (intent == 6) {
-            if(threeGallon + fourGallon >= 4) {
+            if(threeGallon + fourGallon >= 3) {
                 fourGallon-= (3 - threeGallon);
                 fillThreeGallon(3);
             } else {
